@@ -13,7 +13,7 @@ A curated list of OS Development Resources
 
 ## Courses
 
-* [Baking Pi – Operating Systems Development](A course for developing a very basic Operating System for Raspberry Pi)
+* [Baking Pi – Operating Systems Development](https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/os/) - A course for developing a very basic Operating System for Raspberry Pi
 
 ## Operating systems source code
 
